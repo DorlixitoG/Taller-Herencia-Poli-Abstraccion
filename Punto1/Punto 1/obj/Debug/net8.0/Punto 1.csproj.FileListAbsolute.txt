@@ -1,0 +1,28 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\bin\Debug\net8.0\Punto 1.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\bin\Debug\net8.0\Punto 1.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\bin\Debug\net8.0\Punto 1.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\bin\Debug\net8.0\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\bin\Debug\net8.0\Punto 1.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\refint\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\Punto 1.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto 1\Punto 1\obj\Debug\net8.0\ref\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\bin\Debug\net8.0\Punto 1.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\bin\Debug\net8.0\Punto 1.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\bin\Debug\net8.0\Punto 1.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\bin\Debug\net8.0\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\bin\Debug\net8.0\Punto 1.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\refint\Punto 1.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\Punto 1.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Abstraccion-herencia-poli\Punto1\Punto 1\obj\Debug\net8.0\ref\Punto 1.dll

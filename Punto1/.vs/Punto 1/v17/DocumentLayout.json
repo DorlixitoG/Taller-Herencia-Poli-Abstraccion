@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\marinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\marinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\capitan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\capitan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\jefedeflota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\jefedeflota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|d:\\adso\\5to trismestre\\c#\\ejercicios\\abstraccion-herencia-poli\\punto1\\punto 1\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AB7A38-D74D-4D8D-AB55-1FD434248EE4}|Punto 1\\Punto 1.csproj|solutionrelative:punto 1\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marinero.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Marinero.cs",
+              "RelativeDocumentMoniker": "Punto 1\\Marinero.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Marinero.cs",
+              "RelativeToolTip": "Punto 1\\Marinero.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T23:20:45.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Capitan.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Capitan.cs",
+              "RelativeDocumentMoniker": "Punto 1\\Capitan.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Capitan.cs",
+              "RelativeToolTip": "Punto 1\\Capitan.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T23:10:34.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JefeDeFlota.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\JefeDeFlota.cs",
+              "RelativeDocumentMoniker": "Punto 1\\JefeDeFlota.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\JefeDeFlota.cs",
+              "RelativeToolTip": "Punto 1\\JefeDeFlota.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T23:05:45.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tripulante.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Tripulante.cs",
+              "RelativeDocumentMoniker": "Punto 1\\Tripulante.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Tripulante.cs",
+              "RelativeToolTip": "Punto 1\\Tripulante.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:32:38.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GPS.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\GPS.cs",
+              "RelativeDocumentMoniker": "Punto 1\\GPS.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\GPS.cs",
+              "RelativeToolTip": "Punto 1\\GPS.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:26:50.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Barco.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Barco.cs",
+              "RelativeDocumentMoniker": "Punto 1\\Barco.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Barco.cs",
+              "RelativeToolTip": "Punto 1\\Barco.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:22:28.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Program.cs",
+              "RelativeDocumentMoniker": "Punto 1\\Program.cs",
+              "ToolTip": "D:\\ADSO\\5to trismestre\\C#\\Ejercicios\\Abstraccion-herencia-poli\\Punto1\\Punto 1\\Program.cs",
+              "RelativeToolTip": "Punto 1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:11:17.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
